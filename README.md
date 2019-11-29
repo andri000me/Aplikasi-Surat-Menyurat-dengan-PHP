@@ -16,4 +16,6 @@ Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahu
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
 
-by Abdulloh Habibie
+Create By : Abdulloh habibie | <a href="mailto:abdullohhabibie@gmail.com?Subject=Hello" target="_top">Send Mail</a><br>
+
+
